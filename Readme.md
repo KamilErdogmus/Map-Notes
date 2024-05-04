@@ -14,4 +14,4 @@ Leaflet kütüphanesi kullanılarak harita notları uygulaması geliştirildi.
 
 # Link
 
-[Website](https://663587b1669e3d7a6b3159bf--sparkly-buttercream-af190e.netlify.app/)
+[https://663628542788c4ea801f41e1--dainty-tapioca-e9520c.netlify.app/)
