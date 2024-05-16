@@ -14,4 +14,4 @@ Leaflet kütüphanesi kullanılarak harita notları uygulaması geliştirildi.
 
 # Link
 
-[https://663628542788c4ea801f41e1--dainty-tapioca-e9520c.netlify.app/)
+[Website](https://663628542788c4ea801f41e1--dainty-tapioca-e9520c.netlify.app/)
