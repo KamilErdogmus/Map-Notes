@@ -8,9 +8,12 @@ This is a simple web application developed using the Leaflet library to create a
 - CSS
 - JavaScript
 - Leaflet
-- GIF
 
-## Link
+# GIF
+
+![](img/GIF.gif)
+
+# Link
 
 [Website](https://663587b1669e3d7a6b3159bf--sparkly-buttercream-af190e.nfetlify.app/)
 
