@@ -16,7 +16,7 @@ This is a simple web application developed using the Leaflet library to create a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leaflet-map-notes.git
+   git clone https://github.com/KamilErdogmus/Map-Notes.git
    ```
 2. Open the index.html file in your browser
 
